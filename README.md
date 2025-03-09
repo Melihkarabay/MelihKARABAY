@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melih KARABAY</h1>
-<h3 align="center">A passionate Data Science and AI from Türkiye</h3>
+<h3 align="center">I am a Passionate Artificial Intelligence and Data Analyst from Türkiye</h3>
 
 - 💬 Ask me about **Data Science**
 
